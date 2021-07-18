@@ -28,6 +28,6 @@ Find the repository [here](https://github.com/microsoft/cascadia-code)
 
 ---
 
-Another dashing font family specially designed for business usages.
+Operator mono is a new & awesome font family of fixed-width typefaces.
 
 This fonts were downloaded from [here](https://www.typography.com/fonts/operator/styles)
