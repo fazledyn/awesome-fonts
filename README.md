@@ -22,3 +22,12 @@ There are three variants available `Cascadia Code, Cascadia Mono and Cascad
 
 Find the repository [here](https://github.com/microsoft/cascadia-code)
 
+
+
+#### Operator Mono
+
+---
+
+Another dashing font family specially designed for business usages.
+
+This fonts were downloaded from [here](https://www.typography.com/fonts/operator/styles)
